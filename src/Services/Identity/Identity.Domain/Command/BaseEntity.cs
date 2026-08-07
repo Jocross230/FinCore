@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace Identity.Domain.Command
 {
     public abstract class BaseEntity
